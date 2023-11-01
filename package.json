@@ -1,6 +1,7 @@
 {
   "name": "masamadrecontrol",
   "private": true,
+  "homepage": "https://YairPJ.github.io/MasaMadreControl/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
